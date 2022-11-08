@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jkbxz
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning python, vba, etc.
+- 📫 reach me @jkbx#7661 on discord
